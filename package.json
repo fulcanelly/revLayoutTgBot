@@ -1,0 +1,23 @@
+{
+  "name": "rev_lay_bot",
+  "version": "1.0.0",
+  "description": "Reverse layout of texted sended to bot to oposite",
+  "main": "revlaybot.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "bot",
+    "tg",
+    "layout"
+  ],
+  "author": "fulcanelly",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
